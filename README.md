@@ -26,3 +26,35 @@ Time-dependent Clinical Condition Index (dCCi): dCCi(7), dCCi(8), dCCi(9), dCCi(
 Functional Scores: d_1, F2_i, F2_{conv}
 
 
+**Installation**
+
+Install Jupyter Notebook : Make sure you have Python installed on your computer.
+
+Install Required Packages: Install the necessary Python packages. You can do this using your preferred method (e.g., via Anaconda, or directly using pip). The key packages you might need are:
+
+numpy
+
+pandas
+
+scikit-learn
+
+matplotlib
+
+seaborn
+
+imblearn
+
+seaborn
+
+These packages are commonly used for data analysis and machine learning.
+
+
+**Usage**
+
+Download the Dataset: Obtain the ALS dataset from Kaggle.
+
+Run the Analysis: Follow the project steps to explore the data, preprocess it, train machine learning models, and evaluate their performance.
+
+Review Results: Examine the model's accuracy and other performance metrics to understand how well it classifies ALS.
+
+
