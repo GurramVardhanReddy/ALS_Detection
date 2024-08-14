@@ -58,3 +58,32 @@ Run the Analysis: Follow the project steps to explore the data, preprocess it, t
 Review Results: Examine the model's accuracy and other performance metrics to understand how well it classifies ALS.
 
 
+**Procedure**
+
+1. Loading Necessary Libraries.
+
+2. Loading Dataset from a CSV File or from a Table.
+
+3. Summarization of Data to Understand Dataset (Descriptive Statistics).
+
+4. Visualization of Data to Understand Dataset (Plots, Graphs, etc.).
+
+5. Data Pre-processing Imbalanced Learn Techniques, Data Transformation,
+Cross Validation.
+
+6. Hyper parameter Tuning to Find the Optimal Parameters for the Classification
+Models.
+
+7. Applying Different Learning Algorithms on the Training Dataset.
+
+8. Applying the AUC and ROC Curves for the best three models.
+
+
+**License**
+
+This project is licensed under the Kaggle Dataset License as provided by the dataset's creator.
+
+**Results**
+
+The trained models achieved high accuracy in classifying ALS based on the clinical, sensory, and functional features provided in the dataset. The models demonstrated effective discrimination between ALS patients and healthy controls,
+among the models tested, GaussianNB and Bagging Classifier demonstrated the highest performance, achieving an accuracy of 88%.
